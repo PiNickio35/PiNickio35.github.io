@@ -1,0 +1,7 @@
+References
+
+Bootstrap. (n.d.). Bootstrap v. 5.2.3 Minimum. https://getbootstrap.com/
+Fonticons, Inc. (n.d.). Fontawesome Icons. https://fontawesome.com/icons
+Google. (n.d.). Lato [Font]. https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic
+Google. (n.d.). Montserrat [Font]. https://fonts.googleapis.com/css?family=Montserrat:400,700
+Miller, D. T. (2024, May 1). Freelancer. Start Bootstrap. https://startbootstrap.com/theme/freelancer

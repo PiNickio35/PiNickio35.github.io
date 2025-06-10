@@ -1,7 +1,3 @@
-//
-// Scripts
-// 
-
 window.addEventListener('DOMContentLoaded', () => {
 
     // Navbar shrink function
